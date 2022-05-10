@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-九宫格抽奖
+九宫格抽奖，写的比较乱，不过功能都实现了，可指定中奖物品、转动速度
